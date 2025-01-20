@@ -1,0 +1,17 @@
+.wrap {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    justify-content: space-around;
+}
+.img1{
+    width: 40%;
+}
+.img2{
+    width: 40%;
+}
+.buttons{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
